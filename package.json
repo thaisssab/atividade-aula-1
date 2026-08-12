@@ -1,0 +1,11 @@
+{
+  "name": "api-atividade-1",
+  "private": true,
+  "scripts": {
+    "dev:api": "npm --prefix backend run dev",
+    "dev:web": "npm --prefix frontend run dev"
+  },
+  "dependencies": {
+    "mongodb": "^7.5.0"
+  }
+}
